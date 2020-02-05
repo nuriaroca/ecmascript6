@@ -1,12 +1,12 @@
 // Carcaterísitca var #1
 // Podríamos redeclarar variables, esto puede causar problemas.
 
-var nombre = 'Carlos';
-var nombre = 'Arturo';
+// var nombre = 'Carlos';
+// var nombre = 'Arturo';
 
-let pais = 'España';
+// let pais = 'España';
 
-console.log('Hola ' + nombre);
+// console.log('Hola ' + nombre);
 
 
 // Carcaterísitca var #2

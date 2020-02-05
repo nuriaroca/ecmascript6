@@ -1,12 +1,12 @@
 "use strict";
 
-// Carcaterísitca VAR #1
+// Carcaterísitca var #1
 // Podríamos redeclarar variables, esto puede causar problemas.
 // var nombre = 'Carlos';
 // var nombre = 'Arturo';
 // let pais = 'España';
 // console.log('Hola ' + nombre);
-// Carcaterísitca VAR #2
+// Carcaterísitca var #2
 // let y const, al igual que var, tienen un scope en el que no podemos acceder a las variables creadas dentro de una funcion.
 function saludo() {
   var nombre = 'Nuria';
